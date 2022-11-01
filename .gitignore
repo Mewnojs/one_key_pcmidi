@@ -1,0 +1,9 @@
+/target
+*.pkf
+*.mp3
+*.wav
+*.ogg
+*.aac
+*.mid
+/.vs
+/.vscode
